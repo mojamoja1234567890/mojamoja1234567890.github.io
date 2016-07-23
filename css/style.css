@@ -22,11 +22,11 @@ a
 }
 a:visited
 {
-    color: #5D639E;
+    color: #2E737F;
 }
 a:hover
 {
-    color: #5D639E;
+    color: #2E737F;
 }
 a:active
 {
@@ -139,7 +139,7 @@ section h2
 }
 #skills
 {
-    background-color: #5D639E;
+    background-color: #2E737F;
 }
 #skills .container
 {
@@ -321,12 +321,12 @@ section h2
 }
 #contact ul a:hover
 {
-    background-color: #5D639E;
+    background-color: #2E737F;
 }
 footer
 {
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background-color: ;
+    background-color: #2E737F;
 }
