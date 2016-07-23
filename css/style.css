@@ -18,15 +18,15 @@ a
 {
     text-decoration: none;
 
-    color: #14c0c9;
+    color: #4AB8CB;
 }
 a:visited
 {
-    color: #0f949b;
+    color: #5D639E;
 }
 a:hover
 {
-    color: #0f949b;
+    color: #5D639E;
 }
 a:active
 {
@@ -112,7 +112,7 @@ header .site-title span
     font-size: 4.2rem;
     display: block;
 
-    color: #14c0c9;
+    color: #4AB8CB;
 }
 header .profile-icon
 {
@@ -139,7 +139,7 @@ section h2
 }
 #skills
 {
-    background-color: #bea300;
+    background-color: #5D639E;
 }
 #skills .container
 {
@@ -150,7 +150,7 @@ section h2
 #skills h2
 {
     margin-bottom: 60px;
-    color: #fdfcf6;
+    color: #4AB8CB;
 }
 #skills .skill-box
 {
@@ -181,14 +181,14 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #4AB8CB;
 }
 #skills h3
 {
     font-size: 2.4rem;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #14c0c9;
+    color: #4AB8CB;
 }
 #works
 {
@@ -256,7 +256,7 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #14c0c9;
+    background-color: #4AB8CB;
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
@@ -317,16 +317,16 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #14c0c9;
+    background-color: #4AB8CB;
 }
 #contact ul a:hover
 {
-    background-color: #0f949b;
+    background-color: #5D639E;
 }
 footer
 {
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background-color: #bea300;
+    background-color: ;
 }
